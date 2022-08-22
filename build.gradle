@@ -20,7 +20,7 @@ repositories {
 dependencies {
     testImplementation 'org.projectlombok:lombok:1.18.24'
     testImplementation 'org.junit.jupiter:junit-jupiter:5.9.0'
-    implementation 'com.codeborne:selenide:6.6.6'
+    implementation 'com.codeborne:selenide:6.7.2'
     testImplementation 'com.github.javafaker:javafaker:1.0.2'
 
 }
